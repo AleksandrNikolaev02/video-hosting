@@ -1,0 +1,9 @@
+[submodule "video-hosting-backend"]
+	path = video-hosting-backend
+	url = https://github.com/AleksandrNikolaev02/video-hosting-backend.git
+[submodule "video-hosting-frontend"]
+	path = video-hosting-frontend
+	url = https://github.com/AleksandrNikolaev02/video-hosting-frontend.git
+[submodule "video-hosting-ai-model"]
+	path = video-hosting-ai-model
+	url = https://github.com/AleksandrNikolaev02/video-hosting-ai-model.git
